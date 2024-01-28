@@ -17,7 +17,7 @@
       "path": "/pages/cves"
     },
     {
-      "label": "whoami",
+      "label": "About",
       "path": "/pages/about"
     },
     {
@@ -32,11 +32,11 @@
     "contacts": {
       "rss": "",
       "email": "contact@ryanmichaelemmons.com",
-      "github": "https://github.com/the-emmons",
+      "github": "the-emmons",
       "facebook": "",
       "telegram": "",
       "twitter": "",
-      "linkedin": "https://www.linkedin.com/in/rme-infosec/",
+      "linkedin": "rme-infosec/",
       "instagram": "",
       "mastodon": "",
       "line": "",
