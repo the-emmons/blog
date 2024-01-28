@@ -1,40 +1,44 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Ryan Emmons",
   "url": "https://AAAAAAAAAAAAAAA.COM",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "AAAAAA",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Blog Posts",
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "CVEs",
+      "path": "/pages/cves"
+    },
+    {
+      "label": "About Me",
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
+      "label": "Contact Me",
       "path": "/pages/contacts"
     }
   ],
   "author": {
     "name": "Ryan Emmons",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Offensive Security Engineer and Vulnerability Researcher",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
+      "email": "contact@ryanmichaelemmons.com",
+      "github": "https://github.com/the-emmons",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/rme-infosec/",
+      "instagram": "",
+      "mastodon": "",
       "line": "",
       "weibo": "",
       "gitlab": "",
