@@ -17,11 +17,11 @@
       "path": "/pages/cves"
     },
     {
-      "label": "About Me",
+      "label": "whoami",
       "path": "/pages/about"
     },
     {
-      "label": "Contact Me",
+      "label": "Contact",
       "path": "/pages/contacts"
     }
   ],
