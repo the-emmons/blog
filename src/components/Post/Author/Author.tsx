@@ -11,7 +11,7 @@ const Author = () => {
   return (
     <div className={styles.author}>
       <p className={styles.bio}>
-        {author.bio}
+        Thanks for reading! If you're interested in discussing this topic or have any questions, shoot me a message:
         <a
           className={styles.twitter}
           href={getContactHref("linkedin", author.contacts.linkedin)}
