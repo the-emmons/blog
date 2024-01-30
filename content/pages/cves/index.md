@@ -4,10 +4,16 @@ template: "page"
 socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+_Updated: 01/30/24_
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+The following is a list of many of the vulnerabilities I've identified during dedicated security research projects and penetration testing:
+ - CVE-2021-35538 - Oracle VirtualBox Local Privilege Escalation
+ - CVE-2021-46872 - Nim RST Standard Library JavaScript Injection
+ - CVE-2022-29152 - Ericom WebConnect Unauthenticated CSRF to XSS
+ - CVE-2023-22896 - Nim HttpBeast Unauthenticated DoS
+ - CVE-2023-39024 - HMS Unauthenticated Local File Disclosure
+ - CVE-2023-39025 - HMS Unauthenticated SSRF to RCE
+ - CVE-2023-43177 - CrushFTP Unauthenticated Mass Assignment to RCE
+ - CVE-2023-35619 - Microsoft Outlook Spoofing
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Write-ups for many of these vulnerabilities can be found in the [Blog Posts](/) area of the site.
