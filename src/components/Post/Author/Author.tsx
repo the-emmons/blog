@@ -11,14 +11,14 @@ const Author = () => {
   return (
     <div className={styles.author}>
       <p className={styles.bio}>
-        Thanks for reading! If you're interested in discussing this topic or have any questions, shoot me a message:
+        Thanks for reading!If you're interested in discussing this topic or have any questions,
         <a
           className={styles.twitter}
           href={getContactHref("linkedin", author.contacts.linkedin)}
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on LinkedIn
+          shoot me a message on LinkedIn.
         </a>
       </p>
     </div>
