@@ -23,6 +23,6 @@ Ryan Emmons is a Security Engineer and Vulnerability Researcher based in Chicago
  - Advanced Web Application Penetration Testing (ELS/INE)
  - RED TEAM Operator: Windows Evasion (Sektor7)
 #### Press Coverage ####
- - [BleepingComputer](https://www.bleepingcomputer.com/news/security/exploit-for-crushftp-rce-chain-released-patch-now/) (2023)
- - [SANS StormCast](https://isc.sans.edu/podcastdetail/8750) (2023)
- - [HACKADAY](https://hackaday.com/2023/11/17/this-week-in-security-ssh-ftp-and-reptar/) (2023)
+ - [BleepingComputer](https://www.bleepingcomputer.com/news/security/exploit-for-crushftp-rce-chain-released-patch-now/) (2023, _Exploit for CrushFTP RCE chain released, patch now_)
+ - [SANS StormCast](https://isc.sans.edu/podcastdetail/8750) (2023, _SANS Stormcast - Friday, November 17th_)
+ - [HACKADAY](https://hackaday.com/2023/11/17/this-week-in-security-ssh-ftp-and-reptar/) (2023, _THIS WEEK IN SECURITY: SSH, FTP, AND REPTAR_)
