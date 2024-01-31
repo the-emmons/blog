@@ -1,20 +1,18 @@
 ---
-title: "About Ryan"
+title: "About"
 template: "page"
 ---
 
-Ryan Emmons is a Offensive Security Engineer and Vulnerability Researcher based in Chicago, IL.
+Ryan Emmons is a Security Engineer and Vulnerability Researcher based in Chicago, IL. He works for Converge Technology Solutions, performing application and network penetration tests for major companies across a variety of industries. Additionally, he has identified major zero-day vulnerabilities in widely used commercial and open-source software.
 
-Ryan works as a senior security consultant for Converge Technology Solutions, performing application and network penetration tests for major companies across a variety of industries. Addtionally, he has identified major zero-day vulnerabilities in widely used commercial and open-source software.
-
-### Certifications ###
- - __Offensive Security Certified Professional (OSCP)__
+#### Certifications ####
+ - Offensive Security Certified Professional (OSCP)
  - Offensive Security Experienced Pentester (OSEP)
  - Offensive Security Web Expert (OSWE)
  - ELS Web Application Penetration Tester Extreme (eWPTX)
-### Conference Talks ###
+#### Conference Talks ####
  - Kicking Open Closed Doors: Offensive Java Code Review (GrrCON 2023, 50 minutes)
-### Courses ###
+#### Courses ####
  - Penetration Testing with Kali Linux (Offensive Security)
  - Advanced Web Attacks and Exploitation (Offensive Security)
  - Evasion Techniques and Breaching Defenses (Offensive Security)
@@ -24,7 +22,7 @@ Ryan works as a senior security consultant for Converge Technology Solutions, pe
  - Fundamentals of Software Exploitation (RET2 Systems)
  - Advanced Web Application Penetration Testing (ELS/INE)
  - RED TEAM Operator: Windows Evasion (Sektor7)
-### Press Coverage ###
+#### Press Coverage ####
  - [BleepingComputer](https://www.bleepingcomputer.com/news/security/exploit-for-crushftp-rce-chain-released-patch-now/)
  - [SANS StormCast](https://isc.sans.edu/podcastdetail/8750)
  - [HACKADAY](https://hackaday.com/2023/11/17/this-week-in-security-ssh-ftp-and-reptar/)
