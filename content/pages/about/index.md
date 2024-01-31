@@ -3,7 +3,7 @@ title: "About"
 template: "page"
 ---
 
-Ryan Emmons is a Security Engineer and Vulnerability Researcher based in Chicago, IL. He works for Converge Technology Solutions, performing application and network penetration tests for major clients across a variety of industries. Additionally, he has identified notable zero-day vulnerabilities in widely used commercial and open-source software.
+Ryan Emmons is a Security Engineer and Vulnerability Researcher based in Chicago, IL. He works at Converge Technology Solutions, performing application and network penetration tests for major clients across a variety of industries. Additionally, he has identified notable zero-day vulnerabilities in widely used commercial and open-source software.
 
 #### Certifications ####
  - Offensive Security Certified Professional (OSCP)
