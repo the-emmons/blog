@@ -12,7 +12,7 @@ Ryan Emmons is a Security Engineer and Vulnerability Researcher based in Chicago
  - ELS Web Application Penetration Tester Extreme (eWPTX)
 #### Conference Talks ####
  - Kicking Open Closed Doors: Offensive Java Code Review (GrrCON 2023, 50 minutes)
-#### Courses ####
+#### Courses Attended ####
  - Penetration Testing with Kali Linux (Offensive Security)
  - Advanced Web Attacks and Exploitation (Offensive Security)
  - Evasion Techniques and Breaching Defenses (Offensive Security)
