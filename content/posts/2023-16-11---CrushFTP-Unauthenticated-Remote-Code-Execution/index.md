@@ -9,10 +9,10 @@ tags:
   - "Vulnerability Research"
   - "Java"
   - "CrushFTP"
-description: "In 2023, I reported an unauthenticated root-level remote code execution vulnerability chain affecting CrushFTP 10.5.0. The vulnerability was rapidly patched, and the maintainer stated that all existing CrushFTP versions were found to be vulnerable."
+description: "In August, I reported an unauthenticated root-level remote code execution vulnerability chain affecting CrushFTP 10.5.0. The vulnerability was rapidly patched, and the maintainer stated that all existing CrushFTP versions were found to be vulnerable."
 ---
 
-In 2023, I reported an unauthenticated root-level remote code execution vulnerability chain affecting CrushFTP 10.5.0. The vulnerability was rapidly patched, and the maintainer stated that all existing CrushFTP versions were found to be vulnerable. 
+In August, I reported an unauthenticated root-level remote code execution vulnerability chain affecting CrushFTP 10.5.0. The vulnerability was rapidly patched, and the maintainer stated that all existing CrushFTP versions were found to be vulnerable. 
 
 This blog post is published on the [Converge Technology Solutions Cybersecurity blog](https://convergetp.com/2023/11/16/crushftp-zero-day-cve-2023-43177-discovered/).
 
